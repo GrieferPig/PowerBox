@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">PowerBox</string>
+    <string name="toast_root_access_ok">Your device is rooted.</string>
+    <string name="toast_root_access_denied">Your device is rooted, but this app has no access.</string>
+    <string name="toast_root_access_failed">Your device is not rooted.</string>
+    <string name="toast_app_root_access_failed">This app requires root permission.</string>
+    <string name="toast_unknown_exception">Unknown error occured.</string>
+    <string name="toast_timeout_exception">Execution time-out.</string>
+</resources>

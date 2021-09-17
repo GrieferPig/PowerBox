@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="toast_root_access_ok">你的设备已经Root了。</string>
+    <string name="toast_root_access_denied">你的设备已经Root了，但是此App无法访问权限。</string>
+    <string name="toast_root_access_failed">你的设备没有Root权限。</string>
+    <string name="toast_app_root_access_failed">此应用需要Root权限。</string>
+    <string name="toast_unknown_exception">发生了未知问题。</string>
+    <string name="toast_timeout_exception">命令运行超时。</string>
+</resources>
