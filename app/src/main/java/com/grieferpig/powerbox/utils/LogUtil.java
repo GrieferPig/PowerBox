@@ -1,4 +1,4 @@
-package com.xydiateam.xydia;
+package com.grieferpig.powerbox.utils;
 /*
  * Author:GrieferPig
  * Last Modify: 10/19/2020
@@ -38,7 +38,7 @@ package com.xydiateam.xydia;
  *
  */
 
-public class L {
+public class LogUtil {
 
     public static int NONE = 0;
     public static int INFO = 1;
@@ -51,7 +51,7 @@ public class L {
 
     private int LOG_LEVEL;
 
-    public L(int logLevel){
+    public LogUtil(int logLevel){
         this.LOG_LEVEL = logLevel;
     }
 
