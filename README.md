@@ -3,7 +3,7 @@ Simple Toolbox running on your watch, with some useful utility available.
 
 Guess what this project has even not started yet its just a placeholder and i'll try to fill stuff here as soon as i can.
 
-#Tested modules
+# Tested modules
 Shell
 
 Root Detection
